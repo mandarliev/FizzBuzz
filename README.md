@@ -1,4 +1,4 @@
-## FizzBuzz app
+## FizzBuzz app in Kotlin
 FizzBuzz algorithm implementation
 ## This is from the logcat:
 
