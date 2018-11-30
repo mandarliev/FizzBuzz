@@ -1,2 +1,2 @@
-# FizzBuzz
+## FizzBuzz app
 FizzBuzz algorithm implementation
